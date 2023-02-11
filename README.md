@@ -1,4 +1,7 @@
-### Hi there 👋
+### Ion Mihaila - Software Developer 
+Hello!👋 I am a Computer Science student at VU Amsterdam and I'm always looking for a challenge, project, collaboration!
+
+
 
 <!--
 **ionm28/ionm28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
